@@ -1,0 +1,43 @@
+{
+  "name": "WZRP",
+  "symbol": "WZRP",
+  "description": "WZR A Beautiful Woman!",
+  "image": "https://raw.githubusercontent.com/k1muragg8/my-nft-assets/main/images/2.png",
+  "attributes": [
+    {
+      "trait_type": "Image Style",
+      "value": "Elegant Portrait"
+    },
+    {
+      "trait_type": "Dominant Color",
+      "value": "Soft Pastels"
+    },
+    {
+      "trait_type": "Lighting",
+      "value": "Natural Soft Light"
+    },
+    {
+      "trait_type": "Facial Expression",
+      "value": "Serene"
+    },
+    {
+      "trait_type": "Background Scene",
+      "value": "Minimalist Indoor"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/k1muragg8/my-nft-assets/main/images/2.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "3KYqsvPiuDK6Ty1YyvbUAihiBbLn8gAGwvoYNxSHf8pP",
+        "share": 100
+      }
+    ]
+  }
+}
