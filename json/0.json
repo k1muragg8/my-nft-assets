@@ -2,7 +2,6 @@
   "name": "k1mura Test #0",
   "symbol": "k1mura",
   "description": "This is the very first NFT for my Solana test collection!",
-  "seller_fee_basis_points": 500,
   "image": "https://raw.githubusercontent.com/k1muragg8/my-nft-assets/main/images/0.png",
   "attributes": [
     {
