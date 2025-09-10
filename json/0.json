@@ -7,11 +7,11 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Blue"
+      "value": "White"
     },
     {
       "trait_type": "Eyes",
-      "value": "Googly"
+      "value": "Determined"
     }
   ],
   "properties": {
@@ -24,7 +24,7 @@
     "category": "image",
     "creators": [
       {
-        "address": "在此处填写您的Solana钱包地址",
+        "address": "3KYqsvPiuDK6Ty1YyvbUAihiBbLn8gAGwvoYNxSHf8pP",
         "share": 100
       }
     ]
