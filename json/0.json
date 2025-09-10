@@ -1,0 +1,32 @@
+{
+  "name": "k1mura Test #0",
+  "symbol": "k1mura",
+  "description": "This is the very first NFT for my Solana test collection!",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/k1muragg8/my-nft-assets/main/images/0.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Googly"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/k1muragg8/my-nft-assets/main/images/0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "在此处填写您的Solana钱包地址",
+        "share": 100
+      }
+    ]
+  }
+}
