@@ -1,0 +1,39 @@
+{
+  "name": "[SAGA] Official Logo - 2025 Standard",
+  "symbol": "SAGA",
+  "description": "CHINA SAGA!",
+  "image": "https://raw.githubusercontent.com/k1muragg8/my-nft-assets/main/images/1.png",
+  "attributes": [
+    {
+      "trait_type": "Asset Type",
+      "value": "Brand IP"
+    },
+    {
+      "trait_type": "Version",
+      "value": "1.0.0"
+    },
+    {
+      "trait_type": "Color Standard",
+      "value": "Pantone 294 C"
+    },
+    {
+      "trait_type": "Status",
+      "value": "Official"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/k1muragg8/my-nft-assets/main/images/1.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "3KYqsvPiuDK6Ty1YyvbUAihiBbLn8gAGwvoYNxSHf8pP",
+        "share": 100
+      }
+    ]
+  }
+}
